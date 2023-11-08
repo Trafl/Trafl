@@ -1,11 +1,9 @@
 ### Welcome to my world 🤙🤙
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroivoluz/)
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Trafl" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trafl&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div>
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Trafl" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trafl&layout=compact&langs_count=8&card_width=320" />
+<?div>
 
 ### Skills 🤖 💡
 <div style="display: inline_block"><br>
